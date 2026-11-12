@@ -33,11 +33,9 @@ Both datasets are obtained from NYC Open Data.
 
 ## Repository Structure
 
-- `notebooks/`: Data extraction and profiling notebooks.
-- `data/`: Instructions for obtaining source datasets.
-- `models/`: Dimensional models and architecture diagrams.
-- `dbt/`: dbt project and SQL models.
-- `docs/`: Project documentation.
+- `notebooks/`: Jupyter notebooks for data extraction and profiling.
+- `data/`: Dataset source information and instructions for obtaining the CSV files.
+- `models/`: Dimensional modeling diagrams and related SQL models.
 
 ## Project Status
 
