@@ -47,7 +47,7 @@ Currently in the data profiling, requirements, dimensional modeling, and archite
 
 | Name | GitHub | Contributions |
 |---|---|---|
-| Yuting Wu | [@yuting-0 | Data profiling and dimensional modeling |
+| Yuting Wu | [@yuting-0](https://github.com/yuting-0) | Data profiling and dimensional modeling |
 | Jenna Lopez | [@username](https://github.com/username) | January 2026 data extraction |
 | Dia Dulal | [@username](https://github.com/username) | To be updated |
 | Amber Segura | [@username](https://github.com/username) | To be updated |
