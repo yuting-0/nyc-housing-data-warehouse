@@ -43,6 +43,11 @@ Both datasets are obtained from NYC Open Data.
 
 Currently in the data profiling, requirements, dimensional modeling, and architecture planning stages. Warehouse implementation and dashboard development are planned.
 
-## Team Contributions
+## Contributors
 
-This is a collaborative course project. Individual contributions will be documented as the project progresses.
+| Name | GitHub | Contributions |
+|---|---|---|
+| Yuting Wu | [@yuting-0 | Data profiling and dimensional modeling |
+| Jenna Lopez | [@username](https://github.com/username) | January 2026 data extraction |
+| Dia Dulal | [@username](https://github.com/username) | To be updated |
+| Amber Segura | [@username](https://github.com/username) | To be updated |
